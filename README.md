@@ -12,14 +12,14 @@ A deep learning-based tool to automatically replace censored artwork in hentai w
 
 Before DeepCreamPy can be used, the user must color censored regions in their hentai green with an image editing program like GIMP or Photoshop. DeepCreamPy takes the green colored images as input, and a neural network automatically fills in the censored regions.
 
-You can download the latest release for Windows 64-bit [here](https://github.com/deeppomf/DeepCreamPy/releases/latest). 
+You can download the latest release for Windows 64-bit [here](https://github.com/SatyamSSJ10/DeepCreamPy/releases/latest). 
 
 For users interested in compiling DeepCreamPy themselves, DeepCreamPy can run on Windows, Mac, and Linux.
 
-Please before you open a new issue check [closed issues](https://github.com/deeppomf/DeepCreamPy/issues?q=is%3Aissue+is%3Aclosed) and check the [table of contents](https://github.com/deeppomf/DeepCreamPy#table-of-contents).
+Please before you open a new issue check [closed issues](https://github.com/SatyamSSJ10/DeepCreamPy/issues?q=is%3Aissue+is%3Aclosed) and check the [table of contents](https://github.com/SatyamSSJ10/DeepCreamPy#table-of-contents).
 
 <p align="center">
-	<img src="https://github.com/deeppomf/DeepCreamPy/blob/master/readme_images/mermaid_collage.png" width="800">
+	<img src="https://github.com/SatyamSSJ10/DeepCreamPy/blob/master/readme_images/mermaid_collage.png" width="800">
 </p>
 
 ## Features
@@ -77,4 +77,4 @@ Training data is modified from gwern's project [Danbooru2017: A Large-Scale Crow
 See [ACKNOWLEDGEMENTS.md](docs/ACKNOWLEDGEMENTS.md) for full license text of these projects.
 
 ## Donations
-If you like the work I do, you can donate to me via Paypal. The funds will go towards keeping me alive. [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAM6C6DQRDBAE)
+--This is not mine so dont donate-- I tried to keep everything original
