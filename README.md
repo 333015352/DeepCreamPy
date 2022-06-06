@@ -19,7 +19,7 @@ For users interested in compiling DeepCreamPy themselves, DeepCreamPy can run on
 Please before you open a new issue check [closed issues](https://github.com/SatyamSSJ10/DeepCreamPy/issues?q=is%3Aissue+is%3Aclosed) and check the [table of contents](https://github.com/SatyamSSJ10/DeepCreamPy#table-of-contents).
 
 <p align="center">
-	<img src="https://github.com/SatyamSSJ10/DeepCreamPy/readme_images/mermaid_collage.png" width="800">
+	<img src="https://github.com/SatyamSSJ10/DeepCreamPy/blob/main/readme_images/mermaid_collage.png" width="800">
 </p>
 
 ## Features
